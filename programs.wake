@@ -40,6 +40,7 @@ export def allFreedomESDKExamples sdkTarget =
     makeFreedomESDKProgram "i2c" "example",
     makeFreedomESDKProgram "itim" "example",
     makeFreedomESDKProgram "l2pf" "example",
+    makeFreedomESDKProgram "l2pm" "example",
     makeFreedomESDKProgram "lim" "example",
     makeFreedomESDKProgram "pmp" "example",
     makeFreedomESDKProgram "rtc" "example",
